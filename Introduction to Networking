@@ -1,0 +1,124 @@
+SOLUTIONS FOR "INTRODUCTION TO NETWORKING" MODULE:-
+
+
+
+Networking Overview:-
+
+        Mark complete & next
+
+
+Network Types:-
+
+        Mark complete & next
+
+
+Networking Topologies:-
+
+        Mark complete & next
+
+
+Proxies:-
+
+        Mark complete & next
+
+
+Networking Models:-
+
+        Mark complete & Next
+
+
+The OSI Models:-
+
+        Mark complete & Next
+
+
+The TCP/IP Model:-
+
+        Mark complete & next
+
+
+Network Layer:-
+
+        Mark complete & next
+
+
+IP Addresses:-
+
+        Mark complete & next
+
+
+Subnetting:-
+
+        Q. Submit the decimal representation of the subnet mask from the following CIDR: 10.200.20.0/27
+        Ans: 255.255.255.224
+
+        Q. Submit the broadcast address of the following CIDR: 10.200.20.0/27
+        Ans: 10.200.20.31
+
+        Q. Split the network 10.200.20.0/27 into 4 subnets and submit the network address of the 3rd subnet as the answer.
+        Ans: 10.200.20.16
+
+        Q. Split the network 10.200.20.0/27 into 4 subnets and submit the broadcast address of the 2nd subnet as the answer.
+        Ans: 10.200.20.15
+
+
+MAC addresses:-
+
+        Mark complete & next
+
+
+IPv6 Addresses:-
+
+        Mark complete & next
+
+
+Networking Key Terminology:-
+
+        Mark complete & next
+
+
+Common Protocols:-
+
+        Mark complete & next
+
+
+Wireless Networks:-
+
+        Mark complete & next
+
+
+Virtual Private networks:-
+
+        Mark complete & next
+
+
+Vendor specific Information:-
+
+        Mark complete & next
+
+
+Key Exchange Mechanisms:-
+
+        Mark complete & next
+
+
+Authentication Protocols:-
+
+        Mark complete & next
+
+
+TCP/UDP connections:-
+
+        Mark complete & next
+
+
+Cryptography:-
+
+        Finish!
+
+
+
+
+
+*************************************************************************************************** T H E  E N D *************************************************************************************************************
+        
