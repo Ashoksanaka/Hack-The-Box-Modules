@@ -1,0 +1,116 @@
+SOLUTIONS FOR "WINDOWS FUNDAMENTALS" MODULE :-
+
+
+
+Introduction to windows:-
+
+        Q. What is the Build Number of the targetworkstation?
+        Ans: 19041
+
+        Q. Which Windows NT version is installed on the workstation? (i.e. Windows X - case sensitive)
+        Ans: Windows 10
+
+
+Operating system structure:-
+
+        Q. Find the non-standard directory in the C drive. Submit the contents of the flag file saved in this directory.
+        Ans: c8fe8d977d3a0c655ed7cf81e4d13c75
+
+
+File system:-
+
+        Q. What system user has full control over the c:\users directory?
+        Ans: bob.smith
+
+
+NTFS vs. Share Permissions:-
+
+        Q. What protocol discussed in this section is used to share resources on the network using Windows? (Format: case sensitive)
+        Ans: SMB
+
+        Q. What is the name of the utility that can be used to view logs made by a Windows system? (Format: 2 words, 1 space, not case sensitive)
+        Ans: Event Viewer
+
+        Q. What is the full directory path to the Company Data share we created?
+        Ans: C:\Users\htb-student\Desktop\Company Data
+
+
+Windows Services & Processes:-
+
+        Q.  Identify one of the non-standard update services running on the host. Submit the full name of the service executable (not the DisplayName) as your answer.
+        Ans: FoxItReaderUpdateService.exe
+
+
+Services Permissions:-
+
+        Mark complete and next
+
+
+Windows sessions:-
+
+        Mark complete and next
+
+
+Interacting with Windows Operating System:-
+
+        Q. What is the alias set for the ipconfig.exe command?
+        Ans: ifconfig
+
+        Q. Find the Execution Policy set for the LocalMachine scope.
+        Ans: unrestricted
+
+
+Windows Management Instrumentation (WMI):-
+
+        Q. Use WMI to find the serial number of the system.
+        Ans: 00329-10280-00000-AA938
+
+
+Microsoft Management Console (MMC):-
+
+        Mark complete and next
+
+
+Windows subsystem for Linux (WSL):-
+
+        Mark complete and next
+
+
+Desktop Experience vs Server core:-
+
+        mark complete and next
+
+
+Windows Securrity:-
+
+        Q. Find the SID of the bob.smith user.
+        Ans: S-1-5-21-2614195641-1726409526-3792725429-1003
+
+        Q. What 3rd party security application is disabled at startup for the current user? (The answer is case sensitive).
+        Ans: NordVPN
+
+
+Skill Assessment-Windows Fundamentals:-
+
+        Q.  What is the name of the group that is present in the Company Data Share Permissions ACL by default?
+        Ans: everyone
+
+        Q. What is the name of the tab that allows you to configure NTFS permissions?
+        Ans: security
+
+        Q. What is the name of the service associated with Windows Update?
+        Ans: wuauserv
+
+        Q. List the SID associated with the user account Jim you created.
+        Ans: S-1-5-21-2614195641-1726409526-3792725429-1006
+
+        Q. List the SID associated with the HR security group you created.
+        Ans: S-1-5-21-2614195641-1726409526-3792725429-1007
+
+
+
+
+
+
+
+************************************************************************************************ T H E  E N D *************************************************************************************************************
